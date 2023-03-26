@@ -57,8 +57,3 @@ System.out.println("Total Trails : "+TotalTrails);
 System.out.println("Total Score : "+TotalScore);
 }
 }
-
-
-
-
- 
